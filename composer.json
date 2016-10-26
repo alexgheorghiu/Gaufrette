@@ -36,7 +36,7 @@
         "dropbox-php/dropbox-php": "*",
         "herzult/php-ssh": "*",
         "phpunit/phpunit": "3.7.*",
-        "microsoft/windowsazure": "dev-master",
+        "microsoft/windowsazure": "0.4.5",
         "mikey179/vfsStream": "~1.2.0",
         "league/flysystem": "~1.0"
     },
